@@ -1,5 +1,8 @@
 # Calculator Layout Boss Challenge
 
+<p align="center">
+  <img src="https://media.giphy.com/media/p41gtZELkKe36arq2m/giphy.gif" />
+</p>
 
 ## Hey guys! This project was made to fixate the knowledge gained from the [Dice game app](https://github.com/vcolen/Dice-game-app), about Auto Layout.
 ## This is what I've learned in this lesson:
